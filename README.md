@@ -2,6 +2,14 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+Containing
+``` textmate
+CSS, Buttons    :   Vuetify, Tailwind CSS
+Global Store    :   Vuex, Pinia
+Backend         :   MongoDB Connect
+Web3            :   Xverse Wallet
+```
+
 ## Setup
 
 Make sure to install the dependencies:
